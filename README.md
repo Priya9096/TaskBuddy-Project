@@ -1,4 +1,8 @@
-TaskBuddy is a task management app built with React. It allows users to add, update, delete, and track their tasks with ease. The app also includes a progress tracker and the ability to clear all tasks at once.
+🚀 TaskBuddy is a powerful task management app built using ReactJS. It helps users manage daily tasks with ease — add, update, delete, track progress, and clear all tasks with just one click!
+
+
+➡️ **For a step-by-step guide on how to build this project, watch the full video here:** [https://youtu.be/Q4aB0IgKYx0?si=L_NjJVoZvb7tbFAO]
+
 
 ## Features
 
@@ -17,5 +21,3 @@ TaskBuddy is a task management app built with React. It allows users to add, upd
 - **Progress Tracker**: View the progress of your tasks in the progress tracker.
 
 <img width="1440" alt="Screenshot 2025-02-05 at 10 31 29 AM" src="https://github.com/user-attachments/assets/5740fdc8-145a-4f02-81a5-041a1cab4059" />
-
-➡️ **For a step-by-step guide on how to build this project, watch the full video here:** [https://youtu.be/Q4aB0IgKYx0?si=L_NjJVoZvb7tbFAO]
